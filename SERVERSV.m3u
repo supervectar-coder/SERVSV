@@ -28,8 +28,11 @@
 {"name": "LISTA 100 USERS SERV SV (VPN)Es",
 "image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
 "url": "http://sfnooesvp.top:8080/get.php?username=heir001&password=Hehe321@espro&type=m3u_plus"},
-
  
-{"name": "LISTA 100 USERS SERV SV (VPN)Es",
+{"name": "LISTA SOLO TV 100 USERS SERV SV (VPN)Es",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "https://raw.githubusercontent.com/supervectar-coder/listaES2/refs/heads/main/listaES2.m3u"},
+
+{"name": "LISTA 100 USERS COMPLETA SERV SV (VPN)Es",
 "image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
 "url": "https://raw.githubusercontent.com/supervectar-coder/listaES/refs/heads/main/listaES.m3u"}]}
